@@ -1,0 +1,5 @@
+train: ..\tuto_dataset\train\images  # training path
+val: ..\tuto_dataset\val\images      # validation path
+
+nc: 4  # amount of classes
+names: ['orange_cone', 'large_orange_cone', 'blue_cone', 'yellow_cone']
